@@ -42,3 +42,4 @@
 1. לפתוח את התיקייה `villa-site` בעורך / ב־VS Code / ב־Cursor.
 2. לפתוח את הקובץ `index.html` בדפדפן (או להשתמש ב-live server).
 
+
