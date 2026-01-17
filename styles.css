@@ -134,7 +134,7 @@ body::before {
   gap: 0.75rem;
 }
 
-.brand-mark {
+/* .brand-mark {
   width: 40px;
   height: 40px;
   border-radius: 14px;
@@ -143,7 +143,26 @@ body::before {
   align-items: center;
   justify-content: center;
   box-shadow: 0 12px 30px rgba(22, 163, 74, 0.4);
+} */
+ .brand-mark {
+  width: 260px;
+  height: 90px;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  box-shadow: none;
 }
+
+.brand-mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 
 .brand-text {
   display: flex;
